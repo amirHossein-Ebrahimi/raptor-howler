@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import useAptor from '../react-aptor';
+import useAptor from 'react-aptor';
 import getAPI, { APITypes } from './api';
 import instantiate, { destroy } from './construct';
 import { HowlerParams } from '../types';

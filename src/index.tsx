@@ -16,7 +16,7 @@ export default forwardRef<APITypes, RaptorHowlerProps>(function RaptorHowler(
   }, [playing]);
 
   useEffect(() => {
-    if (rate != null) audioRef.current!.rate(rate);
+    if (rate) audioRef.current!.rate(rate);
   }, [rate]);
 
   useEffect(() => {

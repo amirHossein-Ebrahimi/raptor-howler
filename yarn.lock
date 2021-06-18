@@ -37,6 +37,11 @@ howler@2.2.1:
   resolved "https://registry.yarnpkg.com/howler/-/howler-2.2.1.tgz#a521a9b495841e8bb9aa12e651bebba0affc179e"
   integrity sha512-0iIXvuBO/81CcrQ/HSSweYmbT50fT2mIc9XMFb+kxIfk2pW/iKzDbX1n3fZmDXMEIpYvyyfrB+gXwPYSDqUxIQ==
 
+react-aptor@>=1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-aptor/-/react-aptor-1.2.0.tgz#5c429e62de137baa62bed02c0ab776d8ad19a9c0"
+  integrity sha512-IeXJN/n/893/mCdWyeRErB5KxcCG2mS80QG9+8kBPB7LdkLdYvtGSxL6bsq3mvwrX6aj/ePfKh0DkINGCDZl4Q==
+
 typescript@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.2.tgz#7ea7c88777c723c681e33bf7988be5d008d05ac2"

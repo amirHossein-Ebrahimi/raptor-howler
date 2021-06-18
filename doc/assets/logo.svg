@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47">
+  <style>
+    @keyframes ani1{0%{fill:#f9b919}20%{fill:#26abe2}40%{fill:#ed5b6e}60%{fill:#c7589e}80%{fill:#129f4d}}
+    @keyframes ani2{0%{fill:#129f4d}20%{fill:#ed5b6e}40%{fill:#26abe2}60%{fill:#f9b919}80%{fill:#c7589e}}
+    @keyframes ani3{0%{fill:#26abe2}20%{fill:#f9b919}40%{fill:#129f4d}60%{fill:#ed5b6e}80%{fill:#c7589e}}
+    @keyframes ani4{0%{fill:#f9b919}20%{fill:#ed5b6e}40%{fill:#c7589e}60%{fill:#129f4d}80%{fill:#26abe2}}
+    @keyframes ani5{0%{fill:#ed5b6e}20%{fill:#c7589e}40%{fill:#26abe2}60%{fill:#f9b919}80%{fill:#129f4d}}
+    @keyframes ani6{0%{fill:#26abe2}20%{fill:#f9b919}40%{fill:#129f4d}60%{fill:#ed5b6e}80%{fill:#c7589e}}
+    @keyframes ani7{0%{fill:#ed5b6e}20%{fill:#129f4d}40%{fill:#c7589e}60%{fill:#f9b919}80%{fill:#26abe2}}
+  </style>
+  <path style="animation:ani1 3s steps(1,end) infinite" d="M2.41 31.94A2.4 2.4 0 010 29.53V17.48a2.41 2.41 0 014.82 0v12.05a2.41 2.41 0 01-2.41 2.4z"/>
+  <path style="animation:ani2 3s steps(1,end) infinite" d="M9.44 37.96a2.41 2.41 0 01-2.41-2.4V11.44a2.41 2.41 0 014.82 0v24.1a2.4 2.4 0 01-2.41 2.41z"/>
+  <path style="animation:ani3 3s steps(1,end) infinite" d="M16.47 34.95a2.41 2.41 0 01-2.41-2.41V14.46a2.41 2.41 0 014.82 0v18.08a2.41 2.41 0 01-2.41 2.4z"/>
+  <path style="animation:ani4 3s steps(1,end) infinite" d="M23.5 40.98a2.4 2.4 0 01-2.41-2.41V8.43a2.41 2.41 0 014.82 0v30.12a2.41 2.41 0 01-2.41 2.41z"/>
+  <path style="animation:ani5 3s steps(1,end) infinite" d="M30.53 47a2.41 2.41 0 01-2.41-2.41V2.41a2.41 2.41 0 014.82 0v42.18A2.4 2.4 0 0130.53 47z"/>
+  <path style="animation:ani6 3s steps(1,end) infinite" d="M37.56 37.96a2.4 2.4 0 01-2.4-2.4V11.44a2.4 2.4 0 114.81 0v24.1a2.41 2.41 0 01-2.4 2.41z"/>
+  <path style="animation:ani7 3s steps(1,end) infinite" d="M44.59 28.92a2.41 2.41 0 01-2.41-2.4v-6.03a2.41 2.41 0 014.82 0v6.02c0 1.33-1.08 2.41-2.41 2.41z"/>
+</svg>
