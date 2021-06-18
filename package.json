@@ -7,6 +7,18 @@
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
   "license": "MIT",
+  "author": {
+    "name": "Amir.H Ebrahimi",
+    "email": "amirhosseinebrahimi77@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amirHossein-Ebrahimi/raptor-howler"
+  },
+  "bugs": {
+    "url": "https://github.com/amirHossein-Ebrahimi/raptor-howler/issues"
+  },
+  "homepage": "https://github.com/amirHossein-Ebrahimi/raptor-howler#readme",
   "scripts": {
     "prebuild": "yarn clean",
     "build": "yarn build:esm && yarn build:cjs",
