@@ -1,5 +1,5 @@
 <h1 align="center">raptor-howler</h1>
-<p align="center"><img src="./doc/assets/logo.svg" alt="raptor howler logo" width="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/amirHossein-Ebrahimi/raptor-howler/master/doc/assets/logo.svg" alt="raptor howler logo" width="200"></p>
 <p align="center">Minimal React wrapper for howlerjs</p>
 <p align="center">
   <a href="https://github.com/amirHossein-Ebrahimi/raptor-howler/blob/master/license">
