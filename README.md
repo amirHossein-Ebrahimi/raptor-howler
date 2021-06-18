@@ -40,6 +40,8 @@ const App = () => (
 
 You can find a complete example for basic functionality of **raptor-howler** using create-react-app, [here](https://github.com/amirHossein-Ebrahimi/raptor-howler/tree/master/example)
 
+See it in action in [codesandbox](https://codesandbox.io/s/modern-cdn-w9v21).
+
 
 ## Props
 props are passed directly to `new Howl` with default value
