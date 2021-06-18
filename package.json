@@ -1,6 +1,6 @@
 {
   "name": "raptor-howler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "The react-aptor connector for Howler.js",
   "main": "./lib/cjs/index.js",
