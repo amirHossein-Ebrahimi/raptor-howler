@@ -1,6 +1,6 @@
 {
   "name": "raptor-howler",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "description": "The react-aptor connector for Howler.js",
   "main": "./lib/cjs/index.js",
@@ -8,7 +8,7 @@
   "types": "./lib/esm/index.d.ts",
   "license": "MIT",
   "scripts": {
-    "prebuild":"yarn clean",
+    "prebuild": "yarn clean",
     "build": "yarn build:esm && yarn build:cjs",
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir lib/cjs",
@@ -25,10 +25,10 @@
     "@types/howler": "^2.2.2",
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
-    "react-aptor": ">=1.2.0",
     "howler": "2.2.1",
-    "typescript": "^4.0.2",
-    "rimraf": "^3.0.2"
+    "react-aptor": ">=1.2.0",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.0.2"
   },
   "files": [
     "/lib"
