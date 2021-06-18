@@ -1,5 +1,5 @@
 <h1 align="center">raptor-howler</h1>
-<p align="center"><img src="./doc/assets/logo.svg" alt="raptor howler logo" width="450"></p>
+<p align="center"><img src="./doc/assets/logo.svg" alt="raptor howler logo" width="200"></p>
 <p align="center">Minimal React wrapper for howlerjs</p>
 <p align="center">
   <a href="https://github.com/amirHossein-Ebrahimi/raptor-howler/blob/master/license">
@@ -69,7 +69,7 @@ new Howl({
 
 ## How to use Other howler.js methods
 
-just pass a ref to `<RaptorHowler />` and you can access the latest howler.js instance using
+just pass a ref to `<RaptorHowler />` and you can access the latest howler instance using
 `ref.current._howler` field.
 
 ```javascript
