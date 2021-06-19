@@ -125,5 +125,5 @@ Take a look at [api.ts](https://github.com/amirHossein-Ebrahimi/raptor-howler/bl
 - Code and documentation has been highly inspired by [react-howler](https://github.com/thangngoc89/react-howler)
 - The audio file for examples are provided by [file-example](https://file-examples-com) website
 
-License
+## License
 MIT
