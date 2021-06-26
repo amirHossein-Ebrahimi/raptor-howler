@@ -10,7 +10,10 @@
   </a>
   <a href="https://bundlephobia.com/result?p=raptor-howler">
     <img src="https://img.shields.io/bundlephobia/minzip/raptor-howler.svg" alt="downloads" />
-</a>
+  </a>
+  <a href="https://lgtm.com/projects/g/amirHossein-Ebrahimi/raptor-howler/context:javascript">
+    <img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/amirHossein-Ebrahimi/raptor-howler.svg?logo=lgtm&logoWidth=18"/>
+  </a>
 </p>
 
 ---
